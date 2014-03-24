@@ -45,3 +45,9 @@ void MainWindow::on_pushtest2_clicked()
     QMessageBox::information(this, "test", ui->lineEdit->text());
 }
 
+void MainWindow::on_pushtest2new1_clicked()
+{
+    QMessageBox::information(this, "test", ui->lineEdit->text());
+}
+
+
