@@ -57,4 +57,8 @@ void MainWindow::on_pushtest2new_clicked()
     QMessageBox::information(this, "test", ui->lineEdit->text());
 }
 
+
 update master
+
+update v1.2
+
