@@ -31,3 +31,10 @@ void MainWindow::on_pushtest_clicked()
     QMessageBox::information(this, "test", ui->lineEdit->text());
 }
 
+
+void MainWindow::on_pushtest33_clicked()
+{
+    QMessageBox::information(this, "test", ui->lineEdit->text());
+}
+
+
